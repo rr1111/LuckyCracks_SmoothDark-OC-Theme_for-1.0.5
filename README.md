@@ -1,6 +1,4 @@
-Sloppy port of [LuckyCrack's](https://github.com/LuckyCrack/OpenCore-Themes) Smooth Dark theme to OpenCore 1.0.5.
-<br><br>
-![image](Screen_SmoothDark.png)
+Partial port of [LuckyCrack's](https://github.com/LuckyCrack/OpenCore-Themes) Smooth Dark theme to OpenCore 1.0.5.<br><br>![image](Screen_SmoothDark.png)
 <br><br>
 Direction / reboot icons are from Acidanthera's stock Syrah Theme as not all Icons were the right size for 1.0.5.
 OS, drive, tool and recovery, etc icon are ported.
